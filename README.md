@@ -1,7 +1,7 @@
 # Datafest-2019
 Miami University Datafest 2019 
 
-Contributers: Tim Romer, Colin Amy, Brian Fotheringham, Isaac Stephani, and Will Tekulve
+Contributors: Tim Romer, Colin Amy, Brian Fotheringham, Isaac Stephani, and Will Tekulve
 
 Result: 3rd out of 36
 
